@@ -14,7 +14,7 @@ I used historical stock price data and applied GRU and LSTM models, which are sp
 ---
 
 
-What I Used
+## What I Used
 Python
 Pandas & NumPy for handling data
 Matplotlib for graphs
