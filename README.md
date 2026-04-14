@@ -13,6 +13,13 @@ I used historical stock price data and applied GRU and LSTM models, which are sp
 
 ---
 
+
+What I Used
+Python
+Pandas & NumPy for handling data
+Matplotlib for graphs
+Scikit-learn for scaling
+Keras (TensorFlow) for building the model
 ## 🔹 Dataset Used
 
 There are mainly two datasets used in this project:
