@@ -15,7 +15,7 @@ I used historical stock price data and applied GRU and LSTM models, which are sp
 
 
 ## What I Used
-*Python
+* **Python
 *Pandas & NumPy for handling data
 *Matplotlib for graphs
 *Scikit-learn for scaling
